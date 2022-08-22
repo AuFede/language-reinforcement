@@ -28,3 +28,9 @@
 // else {
 //     console.log("You are a child")
 // }
+
+// const names = ['joe', 'john', 'marco']
+
+// for(let i = 0; i < names.length; i++) {
+//     console.log (names[i])
+// }
