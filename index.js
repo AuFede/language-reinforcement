@@ -29,8 +29,15 @@
 //     console.log("You are a child")
 // }
 
+
 // const names = ['joe', 'john', 'marco']
 
 // for(let i = 0; i < names.length; i++) {
 //     console.log (names[i])
 // }
+
+const showUserInfo = (userName, userAge) => `The username is ${userName}, the user is ${userAge} years old`
+
+
+console.log(showUserInfo('Joe', 30))
+console.log(showUserInfo('María', 50))
