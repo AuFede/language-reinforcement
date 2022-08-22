@@ -17,3 +17,14 @@
 // console.log(points)
 // console.log(user)
 // console.log(PI)
+
+// const age = 30
+
+// if(age >= 18) {
+//     console.log ("You are and adult")
+// } else if(age >= 13) {
+//     console.log("You are a teenager")
+// }
+// else {
+//     console.log("You are a child")
+// }
