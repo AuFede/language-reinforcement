@@ -36,8 +36,8 @@
 //     console.log (names[i])
 // }
 
-const showUserInfo = (userName, userAge) => `The username is ${userName}, the user is ${userAge} years old`
+// const showUserInfo = (userName, userAge) => `The username is ${userName}, the user is ${userAge} years old`
 
 
-console.log(showUserInfo('Joe',30))
-console.log(showUserInfo('María', 50))
+// console.log(showUserInfo('Joe',30))
+// console.log(showUserInfo('María', 50))

@@ -8,7 +8,9 @@
 
 // Abriendo llaves en la constante puedo llamar a una propiedad específica del objeto-Array.
 
-const { myArray, myNumber } = require("./module/myModule");
+const {user, myNumber, myArray, myWebAddress} = require("./module/myModule");
 
-console.log(myArray);
+console.log(user);
 console.log(myNumber);
+console.log(myArray);
+console.log(myWebAddress);
