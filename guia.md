@@ -2,4 +2,4 @@ https://www.youtube.com/watch?v=i3OdKwuBjeM
 
 Primer repaso.
 
-1:18:04
+1:22:09
