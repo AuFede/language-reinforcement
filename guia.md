@@ -1,5 +1,5 @@
 https://www.youtube.com/watch?v=i3OdKwuBjeM
 
-Primer repaso.
+ver http port (ver puertos reservados, FTP, SMTP)
 
 1:50:00
