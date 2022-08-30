@@ -1,7 +1,6 @@
-# language-reinforcement
+# Nodejs Course
 
 $$
-Nodejs Course
+Repaso de algunos conceptos básicos de NodeJS
 $$
 
-# Repaso de algunos conceptos básicos de NodeJS
