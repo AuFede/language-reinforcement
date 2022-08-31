@@ -1,0 +1,25 @@
+{
+  "name": "main-folder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AuFede/language-reinforcement.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AuFede/language-reinforcement/issues"
+  },
+  "homepage": "https://github.com/AuFede/language-reinforcement#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dayjs": "^1.11.5",
+    "lodash": "^4.17.21"
+  }
+}
