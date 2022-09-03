@@ -2,7 +2,7 @@ https://www.youtube.com/watch?v=i3OdKwuBjeM
 
 
 
-2:41:32
+2:45:01
 
 #### Comandos NPM:
 
@@ -16,4 +16,7 @@ npm remove "paquete" (remueve el paquete instalado)
 a instalar los mismos paquetes que venimos trabajando.
 2. Analizar y estudiar: http port (ver puertos reservados, FTP, SMTP).
 3. NPM no es lo mismo que nodejs, NPM es un manejador de paquetes.
+4. Además del flag -D, existe el flag -g para instalar módulos globales en todo el computador.
+5. La carpeta .bin posee los ejecutables que nosotros podemos usar en nuestro proyecto.
+6. Con node podemos instalar módulos que funcionan como CLI´s (COMMON LINE INTERFACE = HERRAMIENTAS QUE FUNCIONAN DESDE CONSOLA).
 
