@@ -2,13 +2,18 @@ https://www.youtube.com/watch?v=i3OdKwuBjeM
 
 
 
-2:45:01
+2:57:35
 
 #### Comandos NPM:
 
 npm init -y (inicializar sin preguntas)
 npm install/i "paquete" (instalador de paquetes)
 npm remove "paquete" (remueve el paquete instalado)
+
+#### Comandos NPX:
+
+NPX es una suerte de ejecutador de paquetes.
+Con NPX podemos situarnos en la carpeta .bin sin necesidad de ir carpeta por carpeta para tratar de ejecutar un CLI.
 
 #### Algunos datos útiles:
 
@@ -19,4 +24,4 @@ a instalar los mismos paquetes que venimos trabajando.
 4. Además del flag -D, existe el flag -g para instalar módulos globales en todo el computador.
 5. La carpeta .bin posee los ejecutables que nosotros podemos usar en nuestro proyecto.
 6. Con node podemos instalar módulos que funcionan como CLI´s (COMMON LINE INTERFACE = HERRAMIENTAS QUE FUNCIONAN DESDE CONSOLA).
-
+7. El módulo HTTP-server sirve para crear un servidor con un solo comando.
