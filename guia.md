@@ -2,7 +2,7 @@ https://www.youtube.com/watch?v=i3OdKwuBjeM
 
 
 
-2:57:35
+3:07:46
 
 #### Comandos NPM:
 
