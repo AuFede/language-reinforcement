@@ -26,3 +26,4 @@ a instalar los mismos paquetes que venimos trabajando.
 6. Con node podemos instalar módulos que funcionan como CLI´s (COMMON LINE INTERFACE = HERRAMIENTAS QUE FUNCIONAN DESDE CONSOLA).
 7. El módulo HTTP-server sirve para crear un servidor con un solo comando.
 8. Cuando trabajamos con event-loop, nos podemos encontrar con código bloqueante que no permite el correcto funcionamiento del código. Para solucionar esto, utilizamos asincronía.
+9. Cuando trabajamos con async-await podemos llegar a tener errores también. Para eso se utiliza try-catch
