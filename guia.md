@@ -2,7 +2,7 @@ https://www.youtube.com/watch?v=i3OdKwuBjeM
 
 
 
-3:17:05
+3:32:00
 
 #### Comandos NPM:
 
@@ -26,4 +26,8 @@ a instalar los mismos paquetes que venimos trabajando.
 6. Con node podemos instalar módulos que funcionan como CLI´s (COMMON LINE INTERFACE = HERRAMIENTAS QUE FUNCIONAN DESDE CONSOLA).
 7. El módulo HTTP-server sirve para crear un servidor con un solo comando.
 8. Cuando trabajamos con event-loop, nos podemos encontrar con código bloqueante que no permite el correcto funcionamiento del código. Para solucionar esto, utilizamos asincronía.
-9. Cuando trabajamos con async-await podemos llegar a tener errores también. Para eso se utiliza try-catch
+9. Cuando trabajamos con async-await podemos llegar a tener errores también. Para eso se utiliza try-catch.
+10. Para generar un error, utilizamos throw.
+11. 'util' es un módulo de utilidades de NodeJS, para poder convertir código o tener código más cómodo.
+11. Con promisify puedo convertir a un callback en una promesa, sin la necesidad de tener que utilizar return new Promise.
+12. La propiedad on del módulo "events" permite escuchar un evento, es como si fuera una addEventListener.
