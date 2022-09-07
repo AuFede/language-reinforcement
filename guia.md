@@ -2,7 +2,7 @@ https://www.youtube.com/watch?v=i3OdKwuBjeM
 
 
 
-3:32:00
+3:43:50
 
 #### Comandos NPM:
 
@@ -31,3 +31,5 @@ a instalar los mismos paquetes que venimos trabajando.
 11. 'util' es un módulo de utilidades de NodeJS, para poder convertir código o tener código más cómodo.
 11. Con promisify puedo convertir a un callback en una promesa, sin la necesidad de tener que utilizar return new Promise.
 12. La propiedad on del módulo "events" permite escuchar un evento, es como si fuera una addEventListener.
+14. Los streams nos permiten, dividir un archivo grande en múltiples partes y así que sea más fácil su descarga.
+15. --- const {createReadStream} = require('fs') --- no requiere 'fs/promises' porque 'createReadStream' está basado en eventos.
