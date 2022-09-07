@@ -2,7 +2,7 @@ https://www.youtube.com/watch?v=i3OdKwuBjeM
 
 
 
-3:43:50
+3:55:23
 
 #### Comandos NPM:
 
@@ -33,3 +33,4 @@ a instalar los mismos paquetes que venimos trabajando.
 12. La propiedad on del módulo "events" permite escuchar un evento, es como si fuera una addEventListener.
 14. Los streams nos permiten, dividir un archivo grande en múltiples partes y así que sea más fácil su descarga.
 15. --- const {createReadStream} = require('fs') --- no requiere 'fs/promises' porque 'createReadStream' está basado en eventos.
+16. 'pipe' sirve para pasar datos a otra función.
