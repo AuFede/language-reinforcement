@@ -1,20 +1,30 @@
+// También puedo exportar sólo las funciones.
 
-// function add (x, y) {
-//     return x + y
+export function add(x, y) {
+  return x + y;
+}
+
+export function subtract(x, y) {
+  return x - y;
+}
+
+export function multiply(x, y) {
+  return x * y;
+}
+
+export function divide(x, y) {
+  return x / y;
+}
+
+// Sintaxis más apropiada.
+// export default {
+//     add,
+//     subtract,
+//     multiply,
+//     divide
 // }
 
-// function subtract (x, y) {
-//     return x - y
-// }
-
-// function multiply (x, y) {
-//     return x * y
-// }
-
-// function divide (x, y) {
-//     return x / y
-// }
-
+// Sintaxis common JS.
 // module.exports = {
 //     add,
 //     subtract,

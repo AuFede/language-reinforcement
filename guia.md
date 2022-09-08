@@ -2,18 +2,21 @@ https://www.youtube.com/watch?v=i3OdKwuBjeM
 
 
 
-3:55:23
+4:03:10
 
 #### Comandos NPM:
 
-npm init -y (inicializar sin preguntas)
-npm install/i "paquete" (instalador de paquetes)
-npm remove "paquete" (remueve el paquete instalado)
+npm init -y (inicializar sin preguntas).
+npm install/i "paquete" (instalador de paquetes).
+npm remove "paquete" (remueve el paquete instalado).
+Con "type":"module" podemos utilizar la sintaxis de import/export.
+module.exports es la forma de exportar de common JS.
+También se puede expertar con export default.
 
 #### Comandos NPX:
 
 NPX es una suerte de ejecutador de paquetes.
-Con NPX podemos situarnos en la carpeta .bin sin necesidad de ir carpeta por carpeta para tratar de ejecutar un CLI.
+Con NPX podemos situarnos en la carpeta .bin, sin necesidad de ir carpeta por carpeta para tratar de ejecutar un CLI.
 
 #### Algunos datos útiles:
 
@@ -34,3 +37,4 @@ a instalar los mismos paquetes que venimos trabajando.
 14. Los streams nos permiten, dividir un archivo grande en múltiples partes y así que sea más fácil su descarga.
 15. --- const {createReadStream} = require('fs') --- no requiere 'fs/promises' porque 'createReadStream' está basado en eventos.
 16. 'pipe' sirve para pasar datos a otra función.
+17. Ver doc de commonJS.
