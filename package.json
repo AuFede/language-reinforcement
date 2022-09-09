@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "type":"module",
+  "type": "module",
   "scripts": {},
   "repository": {
     "type": "git",
@@ -20,6 +20,7 @@
     "colors": "^1.4.0",
     "dayjs": "^1.11.5",
     "lodash": "^4.17.21",
+    "node-fetch": "^3.2.10",
     "nodemon": "^2.0.19"
   }
 }

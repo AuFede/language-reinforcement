@@ -2,14 +2,16 @@ https://www.youtube.com/watch?v=i3OdKwuBjeM
 
 
 
-4:03:10
+4:21:00
 
 #### Comandos NPM:
 
 npm init -y (inicializar sin preguntas).
 npm install/i "paquete" (instalador de paquetes).
 npm remove "paquete" (remueve el paquete instalado).
-Con "type":"module" podemos utilizar la sintaxis de import/export.
+npm install node-fetch/import fetch from "node-fetch", hace
+implementación de la fetch API.
+Con "type":"module" dentro del package-json, podemos utilizar la sintaxis de import/export.
 module.exports es la forma de exportar de common JS.
 También se puede expertar con export default.
 
@@ -38,3 +40,4 @@ a instalar los mismos paquetes que venimos trabajando.
 15. --- const {createReadStream} = require('fs') --- no requiere 'fs/promises' porque 'createReadStream' está basado en eventos.
 16. 'pipe' sirve para pasar datos a otra función.
 17. Ver doc de commonJS.
+18. En NodeJS 2022 se puede usar top level await, siempre y cuando haya type:module en package-json. Con esto se optimizar la función de async.
